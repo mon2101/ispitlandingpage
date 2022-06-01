@@ -1,0 +1,34 @@
+div {
+    border-style: none;
+    height: 150px;
+}
+
+.jedan {
+   background-color: #1f2937;
+   height: 30px;   
+}
+
+.dva {
+   background-color: #1f2937;
+   height:200px;  
+}
+
+.tri {
+   background-color: white;
+   height:200px;  
+}
+
+.četiri {
+   background-color: #E5E7EB;
+   height:190px; 
+}
+
+.pet {
+   background-color: white;
+   height:180px; 
+}
+
+
+body {
+    margin: 0px;
+}
