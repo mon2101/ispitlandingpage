@@ -6,6 +6,10 @@ div {
 .jedan {
    background-color: #1f2937;
    height: 30px;   
+   display: flex;
+   flex-direction: row;
+   padding-top: 10px;
+   justify-content: space-around;
 }
 
 .dva {
@@ -31,4 +35,19 @@ div {
 
 body {
     margin: 0px;
+}
+
+span {
+    color: white;
+    font-weight: bold;
+}
+   
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.links {
+    display: flex;
+    gap: 20px;
 }
