@@ -9,7 +9,7 @@
    justify-content: space-between;
    padding-left: 150px;
    padding-right: 150px;
-
+   color: white;
 }
 
 .dva {
@@ -143,4 +143,69 @@ a {
     font-size: small;   
 
 
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    color:black;
+    font-style: italic;
+    font-size: large;
+
+    
+
+}
+
+.potpis {
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-left: 310px;
+    font-weight: bold;
+    font-size: small;
+}
+
+.pet {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.plaviokvir {
+    background-color: rgb(0, 166, 255);
+    height: 80px;
+    width: 500px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    font-size: small;
+}
+
+.boldtext {
+    font-weight: bold;
+}
+
+.signup {
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.copyrights {
+    font-size: small;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 0px;
+    padding-right: 0px;
+    
 }
